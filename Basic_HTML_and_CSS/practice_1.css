@@ -1,0 +1,25 @@
+body {
+	font-style: italic;
+	text-align: center;
+}
+.font_1 {
+	background-color: purple;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: large;
+	text-align: center;
+}
+.font_2 {
+	background-color: yellow;
+	color: black;
+	font-size: medium;
+	text-align: right;
+}
+.font_3 {
+	background-color: green;
+	color: white;
+	font-size: small;
+	text-align: left;
+	font-stretch: expanded;
+}
