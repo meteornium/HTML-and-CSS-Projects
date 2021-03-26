@@ -1,0 +1,22 @@
+html {
+    font-family:sans-serif;
+    font-size: 63%;
+}
+
+.signup form {
+    font-size: 15px;
+    font-weight: 600;
+    color: #000000;
+    padding: 20px 20px;
+    width: 80%;
+    border: 2px solid #929292;
+    margin: 5% auto;
+    border-radius: 7px;
+    background: #dbdbdba1;
+    box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.3);
+}
+
+.photo img {
+    width: 300px;
+    height: 200px;
+}
