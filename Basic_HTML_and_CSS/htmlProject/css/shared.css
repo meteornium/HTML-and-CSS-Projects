@@ -295,7 +295,7 @@ CONTACT STYLES
     margin: 10px 1em;
     border-radius: 7px;
     background: #13161B;
-    box-shadow: indet 0px 3px 0px 0px rgba(5,5,5,0.15);
+    box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,0.15);
     font-family: 'Raleway', sans-serif;
 }
 .reservation input [type="text"]:hover {
@@ -338,7 +338,7 @@ CONTACT STYLES
     width: 25%;
     font-size: 18px;
     transition: border-color 0.3s color 0.3s background-color 0.3s;
-    border-radius: 7ps;
+    border-radius: 7px;
     background-color: #b1b1b1;
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.3);
 }
