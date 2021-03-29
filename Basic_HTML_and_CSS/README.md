@@ -4,8 +4,8 @@ This is a display of sample websites I made using HTML and CSS.
 
 ##PROJECTS
 
-* [Unova Getaway Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/One-Page%20Website)
-* [Bookstore Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/bootstrap4-project)
+* [Unova Getaway Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/UNOVA%20GETAWAY)
+* [Bookstore Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/BOOKSTORE)
 
 ####Unova Getaway Site
 
