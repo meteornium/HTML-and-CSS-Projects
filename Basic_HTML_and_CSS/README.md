@@ -2,7 +2,7 @@
 
 This is a display of sample websites I made using HTML and CSS.
 
-## PROJECTS
+## Projects
 
 * [Unova Getaway Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/UNOVA%20GETAWAY)
 * [Bookstore Site](https://github.com/meteornium/HTML-and-CSS-Projects-TTA/tree/main/Basic_HTML_and_CSS/BOOKSTORE)
